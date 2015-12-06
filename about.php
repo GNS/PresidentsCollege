@@ -1,4 +1,4 @@
-<?php $page='about'; include 'inc_header.php' ?>
+﻿<?php $page='about'; include 'inc_header.php' ?>
            <div id="contentBk" class="clearfix">
             <div id="content">
                 <div class="topImg clearfix">
@@ -13,7 +13,7 @@
                                 <img src="img/other/welcome.jpg" alt="">
                                 <div>
 
-<p><b>President's College - Minuwangoda 23</b> (formerly known as <b>Japalawaththa Central Colleage</b>) was founded on 09<sup>th</sup>  February 1979 by late Hon Bennet Gunasekara, Member of Parliament. The founder Principal was Mr. R.L.P.P. Rajapakse who led the school to be one of the most reputed and leading government schools in the Island.</p>
+<p><b>President's College - Minuwangoda 23</b> (formerly known as <b>Japalawaththa Central College</b>) was founded on 09<sup>th</sup>  February 1979 by late Hon Bennet Gunasekara, Member of Parliament. The founder Principal was Mr. R.L.P.P. Rajapakse who led the school to be one of the most reputed and leading government schools in the Island.</p>
 <p>The college was upgraded as 1A mix school on 1<sup>st</sup> September 1979.</p>
 <h3>Admission Policy</h3>
 <p>President’s College conduct class from Year 6- Year 13 and has usually admit 200 pupils onto Year 6. To be able to seek admission onto President’s college, student should sit for Year 5 National Scholarship exam conduced by the Department of Education of Sri Lanka and should score cut-off marks level or above. The College has very strict admission policy which allow only pupils who score higher marks at the National Scholarship exams to enter to Year 6. Currently there are about 1900 pupils studying at the school.</p>
