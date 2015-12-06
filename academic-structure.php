@@ -12,7 +12,7 @@
 					</div>
 					 <div class="column-2 c-67" align="center">
 	                        <div class="box">
-	                            <h4>Principal: <strong>Mrs. K.K. Jayasekara</strong></h4>
+	                            <h4>Principal: <strong>Mr. J B C K Jayasekara</strong></h4>
 	                            <div class="boxInfo">
 	                                <img class="fwidth" src="img/staff/principal.jpg" alt="J B C K Jayasekara">
 <p>The present principal, Mr.J.B.C.K.Jayasekara who became the 5<sup>th</sup> amongst elite list of principals of President's College. Minuwangoda assumed duties on 13th January 2011. He is a B.A. (Hons) graduate of University of Peradeniya and completed his	Post Graduate Diploma in Education (PgDE) in the same university.</p>

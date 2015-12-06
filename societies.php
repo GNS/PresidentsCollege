@@ -32,14 +32,7 @@
                             <h4>Aeronautical Society</h4>
                             <div class="boxInfo">
                                 <img class="fwidth" src="img/data/ec_aero.jpg" />
-                                <p>Underline the most suitable answer.<br/>
-                                    
-                                    
-                        
-1. What is the age when Siddatha Gotama renounced home?
-(A) 35                (B)29                 (C) 80
-                        <img src="img/data/7E3_ScoutHappy.gif" />
-</p>
+                                <p>This society is established on 2005 n our school. Mr.Wijithe Palamkumbura ,Mrs.Priyanthi Kumuduni and Mr.M.A.P.W.Madurasinghe are the teachers in charge. The main aim of this society is guiding towards the employment opportunities which are available in Ariation and allied field  in the global villages. <br />The main objective of this society is creating awareness among school children about Aeronautical Science. These are our special activities. We are helping to build Radio control Air crafts and to meet professionals and also we  are helping for practicals about air crafts. Those are our other activities.</p>
                             </div>
                         </div>
                     </div>
