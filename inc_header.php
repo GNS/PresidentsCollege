@@ -1,4 +1,4 @@
-﻿<?php define('SITEURL', "http://localhost/pcm") ?>
+<?php define('SITEURL', "http://gns/pcm") ?>
 <!DOCTYPE html>
 <!--[if IE 8]>         <html class="no-js ie ie8"> <![endif]-->
 <!--[if IE 9]>         <html class="no-js ie ie9"> <![endif]-->
